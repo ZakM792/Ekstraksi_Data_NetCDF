@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Subdataset name="precip">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_MAXIMUM">98.649047851562</MDI>
+          <MDI key="STATISTICS_MEAN">2.0383649107883</MDI>
+          <MDI key="STATISTICS_STDDEV">4.8718008770383</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
